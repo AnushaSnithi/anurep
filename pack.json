@@ -1,4 +1,5 @@
 [
   { "name": "anu", "age": 30 },
-  { "name": "appu", "age": 28 }
+  { "name": "appu", "age": 28 },
+  { "gender": "male", "hieght": 5.6 }
 ]
